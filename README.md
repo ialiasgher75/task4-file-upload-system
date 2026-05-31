@@ -30,7 +30,7 @@ A file upload system built with Node.js, Express, MongoDB and Cloudinary for sto
 ## Setup
 
 1. Clone the repository
-   git clone https://github.com/your-username/task4-file-upload-system.git
+   git clone https://github.com/ialiasgher75/task4-file-upload-system.git
 
 2. Install dependencies
    npm install
